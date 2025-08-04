@@ -42,7 +42,7 @@ I developed a standalone `ContactFormComponent` that allows users to submit cont
 
 ## 📸 Screenshot
 
-![Contact Form Screenshot](screenshot.png)
+![Contact Form Screenshot](public/screenshot.png)
 
 ---
 
